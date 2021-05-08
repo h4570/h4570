@@ -3,7 +3,7 @@
 - C# - [Design patterns](https://github.com/h4570/design-patterns), [Armnas](https://github.com/h4570/armnas)  
 - Angular - [Armnas](https://github.com/h4570/armnas)  
 - Other web - [Pathfinding](https://github.com/h4570/pathfinding), [Network calculator](https://github.com/h4570/network-calculator), [Neural network](https://github.com/h4570/p5-neural-network)  
-- Java, PHP - [University](https://github.com/h4570/university)  
+- Java, PHP, C# - [University](https://github.com/h4570/university)  
   
 [![LinkedIn][linkedin-shield]][linkedin-url]  
 
