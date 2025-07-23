@@ -4,9 +4,11 @@
 - Angular - [Armnas](https://github.com/h4570/armnas), [ingoodhands](https://github.com/PJATK-SPK/ingoodhands)
 - Rust - [6502 PC emulator](https://github.com/h4570/6502-system)
 - Other web - [Pathfinding](https://github.com/h4570/pathfinding), [Network calculator](https://github.com/h4570/network-calculator), [Neural network](https://github.com/h4570/p5-neural-network)  
-- Java, PHP, C# - [University](https://github.com/h4570/university)  
-  
+- Java, PHP, C# - [University](https://github.com/h4570/university)
+   
 [![LinkedIn][linkedin-shield]][linkedin-url]  
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555  
 [linkedin-url]: https://linkedin.com/in/sandro-sobczyński-28820b15a/  
+
+Check my blog at <a href="https://hasto.pl" rel="dofollow">hasto.pl</a>  
