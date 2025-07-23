@@ -11,4 +11,4 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555  
 [linkedin-url]: https://linkedin.com/in/sandro-sobczyński-28820b15a/  
 
-Check my blog at <a href="https://hasto.pl" rel="dofollow">hasto.pl</a>  
+Check my blog at <a href="https://hasto.pl">hasto.pl</a>  
