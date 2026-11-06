@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sandro Sobczy&#324;ski&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 820, Total Commits  : 9040, Total PRs: 250, Total Issues: 178, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 820, Total Commits  : 9041, Total PRs: 250, Total Issues: 178, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 24.225297778622828;
+        stroke-dashoffset: 24.225242640445813;
       }
     }
   
