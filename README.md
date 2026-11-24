@@ -38,9 +38,9 @@
 |---|---|---|
 | [ingoodhands](https://github.com/PJATK-SPK/ingoodhands) | C# + Angular | 2022–2023 |
 | [Armnas](https://github.com/h4570/armnas) | C# + Angular | 2021–2022 |
-| [SPK](https://github.com/PJATK-SPK/spk) | | 2021–2023 |
-| [Design patterns](https://github.com/h4570/design-patterns) | | 2020 |
-| [Crackmes](https://github.com/h4570/crackmes/tree/main) | | 2023 |
+| [SPK](https://github.com/PJATK-SPK/spk) | C# | 2021–2023 |
+| [Design patterns](https://github.com/h4570/design-patterns) | C# | 2020 |
+| [Crackmes](https://github.com/h4570/crackmes/tree/main) | C# | 2023 |
 
 ### 🦀 Rust
 
